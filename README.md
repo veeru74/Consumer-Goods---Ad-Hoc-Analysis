@@ -1,14 +1,14 @@
 # Consumer-Goods---Ad-Hoc-Analysis
 
 ### 📊 Project Overview
-Atliq Hardware, a leading manufacturer of computer hardware in India and several other countries, is facing challenges in making quick, data-informed decisions. To address this, Tony Sharma, Head of Data Analytics, organized a **SQL Challenge** to identify candidates who possess both technical and soft skills. This project focuses on analyzing Atliq Hardware's sales data to extract actionable insights, which will help management optimize strategies and improve overall business performance.
+Atliq Hardware, a leading computer hardware manufacturer in India and several other countries faces challenges in making quick, data-informed decisions. To address this, Tony Sharma, Head of Data Analytics, organized a **SQL Challenge** to identify candidates with both technical and soft skills. This project analyzes Atliq Hardware's sales data to extract actionable insights, which will help management optimize strategies and improve overall business performance.
 
 ---
 
 ### ⚙️ Tools & Technologies Used
 
 - **MySQL:**  
-  Used for querying data, exploring key SQL concepts including Joins, CTEs, Subqueries, Window Functions, String, Numeric, and Date Functions.
+  Used for querying data, and exploring key SQL concepts including Joins, CTEs, Subqueries, Window Functions, String, Numeric, and Date Functions.
   
 - **Power BI:**  
   Visualization of insights using charts such as Sunburst, Bar, Matrix, Line, Maps, Donut, etc. Also involved using **DAX** for advanced calculations and measures.
