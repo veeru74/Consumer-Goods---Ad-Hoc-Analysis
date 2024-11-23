@@ -1,54 +1,27 @@
-# Consumer-Goods---Ad-Hoc-Analysis
+# SQL-FINANCE-and-SUPPLY-CHAIN-ANALYTICS-at-AtliQ-Hardware
 
-### 📊 Project Overview
-Atliq Hardware, a leading computer hardware manufacturer in India and several other countries faces challenges in making quick, data-informed decisions. To address this, Tony Sharma, Head of Data Analytics, organized a **SQL Challenge** to identify candidates with both technical and soft skills. This project analyzes Atliq Hardware's sales data to extract actionable insights, which will help management optimize strategies and improve overall business performance.
+## 📌 Project Overview
+This project focused on leveraging SQL to analyze datasets from AtliQ Hardware, aiming to derive actionable insights into sales trends, market dynamics, customer behaviors, and supply chain forecasting.
 
----
+## 📌 Problem Statement
+To address performance bottlenecks caused by large Excel files, we utilized MySQL to transform raw data into valuable business insights.
 
-### ⚙️ Tools & Technologies Used
+## 📌 Tools Used
+- MySQL: For querying and transforming raw data.
+- Excel: For data preprocessing and visualization.
 
-- **MySQL:**  
-  Used for querying data, and exploring key SQL concepts including Joins, CTEs, Subqueries, Window Functions, String, Numeric, and Date Functions.
-  
-- **Power BI:**  
-  Visualization of insights using charts such as Sunburst, Bar, Matrix, Line, Maps, Donut, etc. Also involved using **DAX** for advanced calculations and measures.
+## 📌 Key Business Insights
+- Sales Optimization: Identified strategies to enhance sales performance.
+- Growth Opportunities: Uncovered new avenues for market expansion.
+- Market Trend Analysis: Provided in-depth analysis of prevailing market trends.
+- Customer Behavior: Gained insights into customer preferences and behaviors.
 
-  
-- **Canva & Adobe Express:**  
-  Tools for presentation design, theme creation, color correction, and image editing.
-  
-- **OBS Studio & Droidcam:**  
-  Setup for video recording, including bit rate adjustment and external webcam integration for high-quality presentations.
+## 📌 Key Project Achievements
+- Developed comprehensive reports highlighting top-performing markets, products, and customer segments.
+- Analyzed net sales percentage share across various regions to guide strategic decisions.
+- Utilized insights to derive effective business strategies and enhance decision-making processes.
 
----
+## 📌 Learning Outcomes
+This project has enhanced my technical skills in SQL and data analysis and provided valuable insights into business analytics, contributing to the development of impactful business strategies.
 
-### 📝 Key Findings & Solutions
-
-- **Gross Profit & Contribution %:**  
-  Analyzed gross profit margins and contribution percentages, helping management understand product profitability.
-
-- **Top Products by Sales:**  
-  Identified the products with the highest overall sales, providing insights into best-selling items across regions.
-
-- **Average Gross Sales & Manufacturing Costs:**  
-  Computed averages to help set future pricing strategies and optimize manufacturing processes.
-
-### 🛠 Solutions Suggested
-
-- **Increasing Customer Engagement:**  
-  Recommended promotions like memberships, gift certificates, bundled deals, and student discounts to drive higher sales.
-
----
-
-### 🔍 Key Learnings from the Project
-
-1. **SQL Mastery:**  
-   Practiced advanced SQL concepts, such as CTEs and window functions, improving my ability to write optimized and insightful queries.
-
-2. **From SQL to Visual Insights:**  
-   Transformed complex query results into easy-to-understand visualizations using Power BI, making data insights actionable for management.
-
-3. **Presentation Skills:**  
-   Gained experience in creating compelling presentations to communicate key findings, utilizing Canva, Adobe Express, and OBS for the best visual output.
-
----
+I am thrilled about this project's outcomes and its potential to drive meaningful business decisions at AtliQ Hardware. Thank you for visiting this repository! Feel free to explore the project files and reach out with any inquiries or collaborations.
